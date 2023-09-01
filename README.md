@@ -59,10 +59,3 @@
 </div>
 
 <br/><br/><br/>
-<div align="center">
-<h3>📚 My Blog 📚</h3>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nile27)](https://github.com/nile27/github-readme-stats)
-</div>
-
-<br/><br/><br/>
