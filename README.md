@@ -41,21 +41,21 @@
 </div>
 
 
-<br/><br/><br/>
+<br/>
 
 <div align="center" >
 <h3>📚 Most Used 📚</h3>
-	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nile27&hide_progress=Compactlayout"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nile27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
-<br/><br/><br/>
 
+<br/>
 <div align="center">
 <h3>📚 My Blog 📚</h3>
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nile27&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 </div>
 
-<br/><br/><br/>
+
