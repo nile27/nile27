@@ -18,7 +18,10 @@
  <h3>📚 FrameWork & Library</h3>
 <div>
 	<img src="https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react" />
+	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js" />
+	<img src="https://img.shields.io/badge/express-444444?style=for-the-badge&logo=express" />
  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Tailwindcss-444444?style=for-the-badge&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=SaSS&logoColor=white"/>
@@ -31,9 +34,7 @@
 <div>
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
- <img src="https://img.shields.io/badge/Node.js-339933E?style=for-the-badge&logo=Node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
- <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+ 
 
 	
 </div>
