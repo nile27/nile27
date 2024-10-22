@@ -52,11 +52,3 @@
 
 
 
-<br/>
-<div align="center">
-<h3>📚 My Blog 📚</h3>
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nile27)](https://github.com/eungyeole/velog-readme-stats)
-</div>
-
-
