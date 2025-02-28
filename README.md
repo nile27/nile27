@@ -17,14 +17,14 @@
 <div align = "left">
  <h3>📚 FrameWork & Library</h3>
 <div>
-	<img src="https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react" />
+	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js" />
 	<img src="https://img.shields.io/badge/express-444444?style=for-the-badge&logo=express" />
  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Tailwindcss-444444?style=for-the-badge&logo=tailwindcss" />
+	<img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-fff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=SaSS&logoColor=white"/>
+  
 	
 </div>
 </div>
