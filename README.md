@@ -1,11 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=46AEDE&text=nile27's%20Github&fontColor=ffffff&height=150" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=46AEDE&text=nile27&fontColor=ffffff&fontSize=50&height=180&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nile27&label=Profile%20views&color=46AEDE&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/nile27?label=Followers&style=social" alt="followers" />
-</p>
+<div align="center">
 
-## 👋 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=46AEDE&center=true&vCenter=true&width=460&lines=FullStack+Developer;React+%26+Next.js;Always+building+something+new" alt="typing" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nile27&label=Profile%20views&color=46AEDE&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/nile27?label=Followers&style=flat-square&color=46AEDE" alt="followers" />
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About
 
 - 🔭 현재 진행 중인 작업: **TeamUp & TeamUp-mobile**
 - 💬 관심 있는 주제: **Nest.js / React-Native / SSR/ISR**
@@ -13,41 +21,36 @@
 
 <br/>
 
-<div align="center" >
-<h3>📚 Used Skill 📚</h3>
+## 🛠 Tech Stack
 
-<div align="left">
-<h3>📚 Language</h3>
-<div>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-</div>
-</div>
+<div align="center">
 
-<div align="left">
-<h3>📚 FrameWork & Library</h3>
-<div>
-	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js" />
-	<img src="https://img.shields.io/badge/express-444444?style=for-the-badge&logo=express" />
-	<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-	<img src="https://img.shields.io/badge/Zustand-fff?style=for-the-badge"/>
-	<img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"/>
-</div>
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,express,tailwind,figma,vscode" alt="skills" />
 
-<div align="left">
-<h3>📚 Tools & Others</h3>
-<div>
-	<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-</div>
-</div>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white" />
+
 </div>
 
 <br/>
 
-</p>
+## 🔗 Contact
+
+<div align="center">
+
+<a href="https://github.com/nile27">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://YOUR_BLOG_URL">
+  <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=46AEDE&height=100&section=footer" width="100%"/>
