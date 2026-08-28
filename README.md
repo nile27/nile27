@@ -23,30 +23,16 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,express,tailwind,figma,vscode" alt="skills" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white" />
-
+<div align="">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-CC6633?style=flat-square" />
 </div>
-
 <br/>
-
-## 🔗 Contact
-
-<div align="center">
-
-<a href="https://github.com/nile27">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="mailto:ddj03104@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
 
 
 </div>
