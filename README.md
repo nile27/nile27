@@ -5,10 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=46AEDE&center=true&vCenter=true&width=460&lines=FullStack+Developer;React+%26+Next.js;Always+building+something+new" alt="typing" />
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=nile27&label=Profile%20views&color=46AEDE&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/nile27?label=Followers&style=flat-square&color=46AEDE" alt="followers" />
-
+<a href="https://mingyu-portfolio.vercel.app/">
+    <img src="https://komarev.com/ghpvc/?username=nile27&label=Profile%20views&color=46AEDE&style=flat-square" alt="View Portfolio" />
+  </a>
 </div>
 
 <br/>
