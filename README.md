@@ -13,10 +13,11 @@
 <br/>
 
 ## 🧑‍💻 About
-
-- 🔭 현재 진행 중인 작업: **TeamUp & TeamUp-mobile**
-- 💬 관심 있는 주제: **Nest.js / React-Native / SSR/ISR**
-- 📫 연락 방법: **ddj03104@gmail.com**
+| 구분 | 내용 |
+| :--- | :--- |
+| 🔭 현재 진행 중인 작업 | [TeamUp](https://github.com/nile27/TeamUp) & [TeamUp-mobile](https://github.com/nile27/TeamUp-mobile) |
+| 💬 관심 있는 주제 | Nest.js / React-Native / SSR/ISR |
+| 📫 연락 방법 | ddj03104@gmail.com |
 
 <br/>
 
