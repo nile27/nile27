@@ -12,7 +12,8 @@
 
 <br/>
 
-## 🧑‍💻 About
+## 🧑‍💻 About 
+지금 제가 관심가지고 있는 것들 입니다.
 | 구분 | 내용 |
 | :--- | :--- |
 | 🔭 현재 진행 중인 작업 | [TeamUp](https://github.com/nile27/TeamUp) & [TeamUp-mobile](https://github.com/nile27/TeamUp-mobile) |
